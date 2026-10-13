@@ -1,5 +1,5 @@
 ## Personal Introduction
-Hi, I'm Furrell Meas, an Honours Computer Science student with a strong interest in cybersecurity, particularly red-team penetration testing.
+Hi, I'm Furrell Meas, an Honours Computer Science student and I like Cybersecurity a bit.
 
 ## Education
 De Kuilen High School (2022)
